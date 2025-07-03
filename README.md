@@ -30,6 +30,7 @@ Data ini digunakan untuk latihan eksplorasi data dan tidak terkait dengan data r
 
 ## 📁 Struktur Folder
 ├── data/ # Dataset mentah dan hasil pembersihan
+
 ├── eda_nasabah.ipynb # Notebook eksplorasi data
 
 
